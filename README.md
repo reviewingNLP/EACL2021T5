@@ -1,6 +1,6 @@
 # EACL2021T5
 
-This repository contains all material used in EACL 2021 Tutorial "Reviewing NLP Research", given on April 20 2021 and described at: https://www.virtual2021.eacl.org/tutorial_T5.html. This content is shared under a CC-BY-NC-SA license.
+This repository contains all material used in EACL 2021 Tutorial "Reviewing NLP Research", given on April 20 2021 and described at: https://www.virtual2021.eacl.org/tutorial_T5.html. This content is shared under the [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/) license.
 
 The tutorial consists of the following sections:
 
