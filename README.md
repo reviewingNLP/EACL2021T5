@@ -6,7 +6,7 @@ The tutorial consists of the following sections:
 
  * Part I - Introduction (Margot Mieskes): [slideslive](https://slideslive.com/38955743), [slides](./EACL_2021_pt1_intro.pdf)
  * Part II - The Actual Review (Karën Fort): [slideslive](https://slideslive.com/38955744), [slides](./EACL_2021_pt2_theActualReview.pdf)
- * Part III - Reviewing Results Section (Kevin Cohen): [slideslive](https://slideslive.com/38955745), [slides]()
+ * Part III - Reviewing Results Section (Kevin Cohen): [slideslive](https://slideslive.com/38955745), [slides](./EACL_2021_pt3_resultsSection.pdf)
  * Part IV - Reviewing Conclusion Section (Kevin Cohen): [slideslive](https://slideslive.com/38955752/), [slides](./EACL_2021_pt4_conclusionSection.pdf)
  * Part V - Reviewer Biases (Anna Rogers): [slideslive](https://slideslive.com/38955745), [slides](./EACL_2021_pt5_biases.pdf)
  * Part VI - Anonymity in Peer Review (Anna Rogers): [slideslive](https://slideslive.com/38955746), [slides](./EACL_2021_pt6_anonymity.pdf)
